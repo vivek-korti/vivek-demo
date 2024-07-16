@@ -1,3 +1,4 @@
 # vivek-demo
-This is my first Git Repository
-author vivek korti
+This is my first Git Repository.
+<br>
+Author-vivek korti
